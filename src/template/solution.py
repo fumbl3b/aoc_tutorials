@@ -9,11 +9,15 @@ def parse_input():
 def part1(data):
     """Solve part 1 of the problem."""
     # TODO: Implement part 1 solution here
+
+    
     return None
 
 def part2(data):
     """Solve part 2 of the problem.""" 
     # TODO: Implement part 2 solution here
+
+
     return None
 
 def main():

@@ -7,8 +7,3 @@
 input = """
 PASTE_YOUR_INPUT_HERE
 """
-
-# Example usage in solution.py:
-# from input_data import input
-# lines = input.strip().splitlines()
-# data = [int(x) for x in lines]  # if input contains numbers
